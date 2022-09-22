@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicatie Android</string>
+    <string name="student_s_name">Nume student</string>
+    <string name="student_s_email">Email student</string>
+</resources>
